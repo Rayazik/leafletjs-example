@@ -1,5 +1,7 @@
 # leafletjs-example
 
+Рабочий пример: http://rayaz.ru/leafletjs/index.php/index/
+
 На фронте: Twitter Bootstrap 3 + jQuery + leaflet.js для работы с картами.
 Backend написан на Code Igniter 3
 
